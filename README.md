@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
-###
+
 
 <div align="center">
 <img align="center" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
@@ -19,10 +19,9 @@
 
 <br clear="both">
 
-###
 
 <h3 align="center">Languages and Tools:</h3>
-###
+
 
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -72,6 +71,4 @@
 
 
 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkdash07&show_icons=true&locale=en&layout=compact" alt="rkdash07" /></p>
-</div>
+
