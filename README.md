@@ -2,11 +2,6 @@
 <h4 align="center">''' Passionate software developer with a creativity''' </h4>
 
 
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-
-
-
 <div align="center">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -17,6 +12,10 @@
 </div>
 
 ###
+
+<div align="center">
+<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
 <br clear="both">
 
