@@ -1,5 +1,5 @@
 <h2 align="center">Hi Coder👋! My name is Rupesh Kumar Dash </h2>
-<h4 align="center">''' Passionate software developer with a creativity''' </h4>
+<h4 align="center">''' Passionate software developer with creativity''' </h4>
 
 
 <div align="center">
